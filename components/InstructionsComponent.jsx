@@ -6,11 +6,11 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>-web3-dapp</span>
+					AMRITA<span>Ai1 </span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					By students For Students{" "}
+					
 				</p>
 			</header>
 
@@ -21,21 +21,21 @@ export default function InstructionsComponent() {
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>AUMS (ASE - CBE)</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
+					href={"https://aumscb.amrita.edu/cas/login?service=https%3A%2F%2Faumscb.amrita.edu%2Faums%2FJsp%2FCore_Common%2Findex.jsp"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>CMS (CBE)</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
+					href={"https://cms.cb.amrita.edu/login"}
 				>
 					<div className={styles.button}>
 						<img
@@ -43,37 +43,17 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Docs</p>
+						<p>INTRANET (CBE)</p>
 					</div>
 				</a>
 			</div>
 			<div className={styles.footer}>
-				<a href="https://alchemy.com/?a=create-web3-dapp" target={"_blank"}>
-					<img
-						id="badge-button"
-						style={{ width: "240px", height: "53px" }}
-						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
-						alt="Alchemy Supercharged"
-					/>
+				<a href="https://intranet.cb.amrita.edu/" target={"_blank"}>
+					
 				</a>
 				<div className={styles.icons_container}>
 					<div>
-						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
-							target={"_blank"}
-						>
-							Leave a star on Github
-						</a>
-					</div>
-					<div>
-						<a
-							href="https://twitter.com/AlchemyPlatform"
-							target={"_blank"}
-						>
-							Follow us on Twitter
-						</a>
-					</div>
-				</div>
+						
 			</div>
 		</div>
 	);
